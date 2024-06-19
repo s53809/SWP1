@@ -1,3 +1,3 @@
 # Hello, My name is Minseo
 
-and this is readme
+and this is Minseo Kim
